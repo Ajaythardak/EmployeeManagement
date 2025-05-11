@@ -81,5 +81,11 @@ namespace EmployeeFullStack.Controllers
             return Ok($"Employee '{employee.Name}' is deleted successfully from DB.");
         }
 
+        [HttpGet("exception")]
+        public IActionResult ThrowException()
+        {
+            throw new Exception("This is a test exception");
+        }
+
     }
 }

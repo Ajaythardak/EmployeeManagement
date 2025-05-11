@@ -142,6 +142,16 @@
   },
   {
     "ContainingType": "EmployeeFullStack.Controllers.EmployeeController",
+    "Method": "ThrowException",
+    "RelativePath": "Employee/exception",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeFullStack.Controllers.EmployeeController",
     "Method": "Create",
     "RelativePath": "Employee/protected",
     "HttpMethod": "POST",
