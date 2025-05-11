@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "EmployeeFullStack.Models.DTOs.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeFullStack.Controllers.EmployeeController",
     "Method": "GetAllEmployees",
     "RelativePath": "Employee",
@@ -25,28 +41,6 @@
           "text/json"
         ],
         "StatusCode": 404
-      }
-    ]
-  },
-  {
-    "ContainingType": "EmployeeFullStack.Controllers.EmployeeController",
-    "Method": "Create",
-    "RelativePath": "Employee",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "employee",
-        "Type": "EmployeeFullStack.Models.DTOs.CreateEmployeeDto",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 201
       }
     ]
   },
@@ -145,6 +139,28 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeFullStack.Controllers.EmployeeController",
+    "Method": "Create",
+    "RelativePath": "Employee/protected",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "EmployeeFullStack.Models.DTOs.CreateEmployeeDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 201
+      }
+    ]
   },
   {
     "ContainingType": "EmployeeFullStack.Controllers.WeatherForecastController",

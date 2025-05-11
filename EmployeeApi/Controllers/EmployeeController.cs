@@ -2,6 +2,7 @@
 using EmployeeFullStack.Models;
 using EmployeeFullStack.Models.DTOs;
 using EmployeeFullStack.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -17,6 +18,7 @@ namespace EmployeeFullStack.Controllers
             _employeeService = employeeService;
         }
 
+        [Authorize]
         [HttpGet]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -29,6 +31,7 @@ namespace EmployeeFullStack.Controllers
             return Ok(employeesList);
         }
 
+        [Authorize]
         [HttpGet("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
@@ -42,7 +45,8 @@ namespace EmployeeFullStack.Controllers
             return employee;
         }
         // POST action
-        [HttpPost]
+        [Authorize]
+        [HttpPost("protected")]
         [ProducesResponseType(StatusCodes.Status201Created)]
         public IActionResult Create(CreateEmployeeDto employee)
         {
@@ -52,6 +56,7 @@ namespace EmployeeFullStack.Controllers
         }
 
         // PUT action
+        [Authorize]
         [HttpPut("{id}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
@@ -63,6 +68,7 @@ namespace EmployeeFullStack.Controllers
         }
 
         // DELETE action
+        [Authorize]
         [HttpDelete("{id}")]
         public IActionResult Delete(Guid id)
         {

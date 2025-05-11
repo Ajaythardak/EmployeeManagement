@@ -8,9 +8,9 @@ namespace EmployeeFullStack.Repositories
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-        private readonly EmployeeContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public EmployeeRepository(EmployeeContext context)
+        public EmployeeRepository(ApplicationDbContext context)
         {
             _context = context;
         }

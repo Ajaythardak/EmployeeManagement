@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj": {
+    "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
         "projectName": "EmployeeFullStack",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\EmployeeManagement\\EmployeeApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.3, )"
