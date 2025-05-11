@@ -1,4 +1,5 @@
 using EmployeeFullStack.Data;
+using EmployeeFullStack.Middlewares;
 using EmployeeFullStack.Repositories;
 using EmployeeFullStack.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -24,6 +25,8 @@ builder.Services.AddControllers();
 builder.Services.AddScoped<EmployeeService>(); // Register EmployeeService
 builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<EmployeeRepository>(); // register repository
+//builder.Services.AddScoped<RequestLoggingMiddleware>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
@@ -97,6 +100,8 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseMiddleware<RequestLoggingMiddleware>();
 
 app.Run();
 
