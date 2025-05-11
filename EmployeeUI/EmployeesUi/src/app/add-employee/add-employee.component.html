@@ -1,0 +1,42 @@
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <h1>Add an Employee</h1>
+    <button mat-flat-button routerLink="/employee-list">
+        <mat-icon>arrow_back</mat-icon> Back
+    </button>
+</div>
+<div style="margin: 40px;">
+    <form #employeeForm="ngForm" (ngSubmit)="onSubmit(employeeForm)">
+
+        <div class="example-container">
+            <mat-form-field appearance="fill">
+                <mat-label>Name</mat-label>
+                <input matInput name="name" [(ngModel)]="employee.name" required />
+            </mat-form-field>
+        </div>
+
+        <div class="example-container">
+            <mat-form-field appearance="fill">
+                <mat-label>Email Id</mat-label>
+                <input matInput name="emailId" [(ngModel)]="employee.emailId" required />
+            </mat-form-field>
+        </div>
+
+        <div class="example-container">
+            <mat-form-field appearance="fill">
+                <mat-label>Address</mat-label>
+                <input matInput name="address" [(ngModel)]="employee.address" required />
+            </mat-form-field>
+        </div>
+
+        <div class="example-container">
+            <mat-form-field appearance="fill">
+                <mat-label>Phone Number</mat-label>
+                <input matInput name="phoneNumber" [(ngModel)]="employee.phoneNumber" required />
+            </mat-form-field>
+        </div>
+
+        <button mat-flat-button color="primary" [disabled]="employeeForm.invalid">Submit</button> OR
+        <button mat-raised-button routerLink="/signup" style="margin-left:5px;">New User?</button>
+    </form>
+
+</div>

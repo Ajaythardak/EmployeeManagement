@@ -1,0 +1,16 @@
+.full-width-table {
+  width: 100%;
+  border-collapse: collapse; /* Optional: makes table borders collapse into a single border */
+  table-layout: fixed; /* Ensures even distribution of column widths */
+}
+
+.full-width-table th,
+.full-width-table td {
+  padding: 8px; /* Adds space inside the cells */
+  border: 1px solid #ddd; /* Adds a border to each cell */
+  text-align: left; /* Aligns the text to the left */
+}
+
+.full-width-table th {
+  background-color: #f4f4f4; /* Adds a background color to the header */
+}

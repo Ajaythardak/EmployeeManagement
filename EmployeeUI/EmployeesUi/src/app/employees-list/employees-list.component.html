@@ -1,0 +1,43 @@
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <h1>Employees Listing Page</h1> 
+    <button mat-flat-button routerLink="/add-employee"> 
+        <mat-icon fontIcon="add"> </mat-icon> 
+        Add Employee 
+    </button>
+</div>
+<hr>
+<div>
+    <h2>
+        Employees available in Database as of now :-
+    </h2>
+    <br>
+    <div style="display: flex; justify-content: space-around; align-items: center;">
+        <button mat-flat-button (click)="getEmployees()" [disabled]="employees!=null"> Get Data from DB</button>
+        <span> </span>
+        <button mat-stroked-button (click)="clearEmployees()" [disabled]="employees==null"> Clear Data</button>
+    </div>
+    <br>
+    <table border="1" class="full-width-table">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Contact</th>
+            <th>Edit</th>
+            
+        </tr>
+        <tr *ngFor="let employee of employees">
+            <td>{{ employee.id }}</td>
+            <td>{{ employee.name }}</td>
+            <td>{{ employee.emailId }}</td>
+            <td>{{ employee.address }}</td>
+            <td>{{ employee.phoneNumber }}</td>
+            <td> <button (click)="editEmployees(employee.id)">
+                    <mat-icon aria-hidden="false" aria-label="Example home icon" fontIcon="edit"></mat-icon>
+                </button> 
+            </td>
+        </tr>
+    </table>
+</div>
+<br>

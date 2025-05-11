@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\models\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:models\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\employees.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:employees.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\employeefullstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:employeefullstack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|c:\\users\\dell\\desktop\\dotnet csharp\\sample projects\\employeemanagement\\employeeapi\\employeefullstack.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8BE4377A-C15B-49E2-AEE7-DF016FD2BFD9}|EmployeeFullStack.csproj|solutionrelative:employeefullstack.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:00:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:59:10.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:32:23.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:33:53.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:52:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:01:07.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "Data\\EmployeeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:02:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Models\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Models\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:08:48.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:06:36.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:35:54.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-31T12:23:05.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T12:04:17.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employees.db",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Employees.db",
+              "RelativeDocumentMoniker": "Employees.db",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\Employees.db",
+              "RelativeToolTip": "Employees.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJLSURBVEhLvZVfSBRBHMe/979Lgo0eOrUH00uus8IkIY1Q8SWjkHroMRQfhUjuNuugIgwvWfrzENFD4IPP1UsIQXGPBdF/wqILr0zqKbzb8v7s7kyze9M/2z\u002BtYh8YZn4zv9nP7uwMg1WFUurhTYNTo\u002BIs623goQOenEpwSJKkZ7zDlCWCJD03Ns4je86eTiEcDi/I30o9dhIvr5fFwOCQsK5mTUYUxVbe9RcrEkRq6xwlKxLoOEn8vLZEUTVkHj4F0Qh697Qh4K9OEQTB\u002BA\u002B/Ifi9yLB6fTWsYilYLJWRm/sEQilKxRIIIcjOfsSXhTxaW5oxkjjBM3/BhAJv/sRyiZ7PZJF9P49sbo59hQqVlZev3\u002BLD/Gc8fjHDs5yxFMSjDfCyTayyJerr3o2\u002Bng5DopftsSjPcsZSwA4himxpNPZAva0X/eE\u002BNoNQwrOcsRS8evOOv7GCW9P3cfPOPUO2WCziwSPbw/sHlgL9R9Zt3IBtsSZDomoKYlsaEW9uQldnO89yxlJQszaMro5d2BptZMvihZ\u002BVth1xdLbvxLXJKaQvX\u002BWZ9jieg2AwgKNH\u002Bo327em7bHmeQJZlqEoFw4lR9HbvxeGDB4xxMyy/wIxQKIRCoYDzKRHpMynk83lQdgDtcCXQKgqUSpntKGIUpVw2NoIdrgSEagj4fDiWPInh40kE/T58lQt81BxXgv79\u002B3D9ioT62gg21UcwNXkDQ4MDfNQcV4IfSONjuDRxgUf2LEvghlUXLLmTE\u002BzS9/zjpW8GzaUnLm7mwf8A\u002BA6x2OMj3Fc96AAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-03-31T17:39:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeFullStack.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
+              "RelativeDocumentMoniker": "EmployeeFullStack.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.csproj",
+              "RelativeToolTip": "EmployeeFullStack.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T12:31:55.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:15:30.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeFullStack.http",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.http",
+              "RelativeDocumentMoniker": "EmployeeFullStack.http",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\DotNet CSharp\\Sample Projects\\EmployeeManagement\\EmployeeApi\\EmployeeFullStack.http",
+              "RelativeToolTip": "EmployeeFullStack.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-30T12:04:23.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
